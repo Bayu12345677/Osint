@@ -34,7 +34,7 @@ $ bash Osint.sh
 
 ```python
 Team : COINTER & HELIXS CREW
-supporter : Aldi, Abdul, panglima jateng,
-            dan seluruh team helixs crew dan Cointer
+supporter : Aldi, Abdul, Panglima jateng,
+            dan seluruh team Helixs crew dan Cointer
 ```
 
