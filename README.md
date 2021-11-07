@@ -16,7 +16,10 @@
 ![aowkwk](https://github.com/Bayu12345677/Osint/blob/main/20211107_144257.png)
 
 
-`how install`
+<h1 align="center">
+   How to install
+</h1>
+</div>
 ```php
 $ apt update
 $ apt full-upgrade
