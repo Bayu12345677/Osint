@@ -31,3 +31,10 @@ $ cd Osint
 $ bash setup.txt
 $ bash Osint.sh
 ```
+
+```python
+Team : COINTER & HELIXS CREW
+supporter : Aldi, Abdul, panglima jateng,
+            dan seluruh team helixs crew dan Cointer
+```
+
