@@ -40,11 +40,11 @@ supporter : Aldi, Abdul, Panglima jateng,
 
 
 
-`ME SOCIAL MEDIA`
-[• Youtube](https://m.youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+`ME SOCIAL MEDIA`                    
+[• Youtube](https://m.youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)                 
 • whatsapp : 085731184377
 
-> BLOG HELIXS Crew
+> BLOG HELIXS Crew                                   
 [• helixs](https://helixs.id)
 
 <h1 align="center">
