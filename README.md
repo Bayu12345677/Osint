@@ -8,5 +8,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Program-Bash-blue" width="99" title="Menu" alt="Menu">
 </p>
-<img src="https://img.shields.io/badge/Made-INDONESIA-red" width="107" title="Menu" alt="Menu">
+<img src="https://img.shields.io/badge/Made-INDONESIA-red" width="78" title="menu" alt="menu">
 </p>
