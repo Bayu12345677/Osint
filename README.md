@@ -1,5 +1,5 @@
 <h1 align="center">
-  FB
+  OSINT TOOLS
 </h1>
 </div>
 <p align="center">
