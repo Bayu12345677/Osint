@@ -20,6 +20,7 @@
    How to install
 </h1>
 </div>
+
 ```php
 $ apt update
 $ apt full-upgrade
